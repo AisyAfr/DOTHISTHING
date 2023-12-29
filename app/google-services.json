@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148558594891",
+    "project_id": "dothisthing-2b22b",
+    "storage_bucket": "dothisthing-2b22b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148558594891:android:2075cf7e637548581c5ece",
+        "android_client_info": {
+          "package_name": "com.example.dothisthing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtMTycorEDkXob4Qqhm9_weK4aybwAvio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
